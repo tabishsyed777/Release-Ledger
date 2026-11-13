@@ -1,6 +1,6 @@
 # Release Ledger
 
-**Put the checks, owners, evidence, and release call in one reviewable record.** Release Ledger turns a Change Radar impact report into a verification checklist that a team can complete together.
+**A release evidence workspace for assigning verification owners, recording outcomes, and connecting a ship decision to review notes.** Turn a Change Radar impact report into a reviewable checklist that a team can complete together.
 
 ## What it does
 
